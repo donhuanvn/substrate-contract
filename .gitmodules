@@ -1,0 +1,6 @@
+[submodule "ink"]
+	path = ink
+	url = https://github.com/paritytech/ink.git
+[submodule "contracts-ui"]
+	path = contracts-ui
+	url = https://github.com/paritytech/contracts-ui.git
